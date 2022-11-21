@@ -1,7 +1,7 @@
 {
    "offices":[
      {
-       "address":"TECOM Zone, Dubai Internet City\nDubai, United Arab Emirates",
+       "address":"Sultan Qaboos Grand Mosque\nMuscat, Sultante of Oman",
        "id":"oman",
        "image":"https://lh3.googleusercontent.com/xw0iylnw3b3-qxwoNzLSLJlAAPtkF1KONnIoBTDHtURr04fzH9DeO08GYvEsKYQtE9GCdOMTk_s08H6-btSquKo3moeILfc3Kpu4MA",
        "lat":23.5840,
@@ -20,42 +20,6 @@
        "id":"africa-middle-east",
        "name":"Africa & Middle East",
        "zoom":3.0
-     },
-     {
-       "coords":{
-         "lat":0.0524811,
-         "lng":127.6560787
-       },
-       "id":"asia-pacific",
-       "name":"Asia Pacific",
-       "zoom":3.0
-     },
-     {
-       "coords":{
-         "lat":46.1352815,
-         "lng":7.4033438
-       },
-       "id":"europe",
-       "name":"Europe",
-       "zoom":4.0
-     },
-     {
-       "coords":{
-         "lat":-17.5554497,
-         "lng":-99.2316195
-       },
-       "id":"latin-america",
-       "name":"Latin America",
-       "zoom":3.0
-     },
-     {
-       "coords":{
-         "lat":45.7128252,
-         "lng":-97.1547448
-       },
-       "id":"north-america",
-       "name":"North America",
-       "zoom":4.0
      }
    ]
  }
