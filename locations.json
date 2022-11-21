@@ -1,23 +1,23 @@
 {
    "offices":[
      {
-       "address":"Sultan Qaboos Grand Mosque\nMuscat, Sultante of Oman",
-       "id":"oman",
-       "image":"https://lh3.googleusercontent.com/xw0iylnw3b3-qxwoNzLSLJlAAPtkF1KONnIoBTDHtURr04fzH9DeO08GYvEsKYQtE9GCdOMTk_s08H6-btSquKo3moeILfc3Kpu4MA",
-       "lat":23.5840,
-       "lng":58.3891,
-       "name":"Oman",
-       "phone":"+971 4 4509500",
-       "region":"africa-middle-east"
-     },
-     {
        "address":"Jibreen Castle\nMuscat, Sultante of Oman",
        "id":"jibreen",
        "image":"https://lh3.googleusercontent.com/xw0iylnw3b3-qxwoNzLSLJlAAPtkF1KONnIoBTDHtURr04fzH9DeO08GYvEsKYQtE9GCdOMTk_s08H6-btSquKo3moeILfc3Kpu4MA",
        "lat":22.9161,
        "lng":57.2494,
        "name":"Jibreen",
-       "phone":"+971 4 4509500",
+       "phone":"",
+       "region":"africa-middle-east"
+     },
+     {
+       "address":"Sultan Qaboos Grand Mosque\nMuscat, Sultante of Oman",
+       "id":"sultan",
+       "image":"",
+       "lat":23.5840,
+       "lng":58.3891,
+       "name":"Sultan",
+       "phone":"",
        "region":"africa-middle-east"
      }
    ],
@@ -29,7 +29,7 @@
        },
        "id":"africa-middle-east",
        "name":"Africa & Middle East",
-       "zoom":15.0
+       "zoom":3.0
      }
    ]
  }
